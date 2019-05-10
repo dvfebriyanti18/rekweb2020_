@@ -1,0 +1,27 @@
+body {
+	background-image: url(../assets/img/b.jpg);
+	background-size: contain;
+	margin-top: 20px;
+	
+}
+
+button {
+	margin-bottom: 15px;
+	font-family: times new roman;
+	font-size: 15px;
+
+}
+
+th,td {
+	width: 200px;
+	height: 50px;
+	border : 1px solid black;
+	text-align: center;
+
+}
+
+.container{
+	background-color: rgba(92, 114, 131, 0.9);
+	width: 1200px;
+	margin: auto;
+}

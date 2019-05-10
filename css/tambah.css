@@ -1,0 +1,14 @@
+body {
+	background-image:url(../assets/img/h.jpg);
+	background-size: contain;
+	margin-top: 20px;
+}
+
+.container {
+	height: 200px;
+    width: 200px;
+    margin: left;
+    padding: 43px;
+    background-color: rgba(39, 71, 71, 0.9);
+}
+

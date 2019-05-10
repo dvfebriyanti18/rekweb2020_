@@ -1,0 +1,32 @@
+body {
+	background-image: url(../assets/img/a.jpg);
+	margin-top: 20px;
+	text-align: center;	
+}
+
+table {
+	margin: auto;
+}
+
+button {
+	margin: 15px;
+	font-size: 15px;
+	font-family: times new roman;
+	margin-left: auto;
+}
+
+.container {
+    height: 250px;
+    width: 300px;
+    margin: auto;
+    padding: 43px;
+    background-color: #274747;
+}
+
+.container h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+tr {
+	margin: 10px;
+}
